@@ -1,2 +1,3 @@
 # Projects
-public projects I've created
+Public projects I've created :)
+
