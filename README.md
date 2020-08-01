@@ -1,5 +1,5 @@
 # Projects
 Public projects I've created :)
 
-https://codepen.io/thatguyish/pen/MWKdBMp
-https://christmascountdown.thatguyish.repl.co/
+(Web) Calculator: https://codepen.io/thatguyish/pen/MWKdBMp
+(Web) Christmas Countdown: https://christmascountdown.thatguyish.repl.co/
