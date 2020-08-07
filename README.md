@@ -5,4 +5,4 @@ Public projects I've created :)
 
 (Web) Christmas Countdown: https://christmascountdown.thatguyish.repl.co/
 
-(C#) Data Manipulation Algorithms:
+(C#) Data Manipulation Algorithms: https://github.com/thatguyish/DataManipulation
